@@ -1,6 +1,7 @@
 # EasyWare Hardware Repair Shop
 
--Pages:
+Pages:
+
 -Home Page -> description about the start-up
 -About Us Page -> description of the team and roles of every memeber
 -Services Page -> description of services and prices+ limited offer deals and completed orders page when you order a service
